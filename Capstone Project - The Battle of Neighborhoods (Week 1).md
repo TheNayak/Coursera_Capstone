@@ -17,4 +17,6 @@ Next we will need the latitude and longitude for each neighborhood. for this we 
 
 Next we will use the Foursquare API to make calls (The tutorial can be found [here](https://www.coursera.org/learn/applied-data-science-capstone/home/week/2)) to get the top 10 venues in each neiborhood.  
 
+Next we will use classification technique of K-Means clustering to group the neighborhood into 5 clusters and we will study the top 10 venues in each cluster.
 
+We will suggest Vasudev to open his pizza restaurants in the clusters that don't have pizza restaurants as their top 3 to 5 venues.
