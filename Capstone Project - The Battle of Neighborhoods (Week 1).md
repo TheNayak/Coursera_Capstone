@@ -11,7 +11,9 @@ Vasudev wants to expand his Pizza chain into the markets of Bengaluru, India. Bu
 
 ### Data
 
-Firstmost, a list of neighborhoods in Bengaluru will be neede. This list will be obtained from [here](https://www.mapsofindia.com/pincode/india/karnataka/bangalore/), a table containing neiborhood names with respect to its postal code. This table will have to be read into a dataframe.
+Firstmost, a list of neighborhoods in Bengaluru will be needed. This list will be obtained from [here](https://www.mapsofindia.com/pincode/india/karnataka/bangalore/), a table containing neiborhood names with respect to its postal code. This table will have to be read into a dataframe.
+
+Next we will need the latitude and longitude for each neighborhood. for this we will use the geocoding webservice geopy (The documentation can be found [here](https://geopy.readthedocs.io/en/stable/))
 
 
 
