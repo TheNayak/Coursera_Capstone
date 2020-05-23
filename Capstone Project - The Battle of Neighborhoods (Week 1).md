@@ -13,7 +13,7 @@ Vasudev wants to expand his Pizza chain into the markets of Bengaluru, India. Bu
 
 Firstmost, a list of neighborhoods in Bengaluru will be needed. This list will be obtained from [here](https://www.mapsofindia.com/pincode/india/karnataka/bangalore/), a table containing neighborhood names with respect to its postal code. This table will have to be read into a dataframe.
 
-Next we will need the latitude and longitude for each neighborhood. for this we will use the google maps search nearby function.
+Next we will need the latitude and longitude for each neighborhood. for this we will use the google maps search nearby function.(data complied into a csv file available [here](http://s000.tinyupload.com/?file_id=04845440732025580094).)
 
 Next we will need some commercial real estate prices. Some prices can be found in [this report](http://www.realisticrealtors.in/assets/CIRIL%20Half%20Yearly%20Report.pdf) in pages 19-22. Since the table cannot be extracted from the report, I have extracted the data into a [csv file](http://www.goosta.com)
 
