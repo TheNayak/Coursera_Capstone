@@ -11,5 +11,5 @@ Vasudev wants to expand his Pizza chain into the markets of Bengaluru, India. Bu
 
 ### Data
 
-Firstmost, a list of neighborhoods in Bengaluru will be neede. This list will be obtained from [here]:https://www.mapsofindia.com/pincode/india/karnataka/bangalore/
+Firstmost, a list of neighborhoods in Bengaluru will be neede. This list will be obtained from [here](https://www.mapsofindia.com/pincode/india/karnataka/bangalore/)
 
