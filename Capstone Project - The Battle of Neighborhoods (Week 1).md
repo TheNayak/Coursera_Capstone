@@ -15,5 +15,6 @@ Firstmost, a list of neighborhoods in Bengaluru will be needed. This list will b
 
 Next we will need the latitude and longitude for each neighborhood. for this we will use the geocoding webservice geopy (The documentation can be found [here](https://geopy.readthedocs.io/en/stable/))
 
+Next we will use the Foursquare API to make calls to get the top 10 venues in each neiborhood.  
 
 
